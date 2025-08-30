@@ -11,4 +11,4 @@ En plus des cours, je travaille sur des projets personnels pour apprendre et pro
 Développement d’un site personnel pour me challenger avec des fonctionnalités encore non abordées en cours, comme le JavaScript et la gestion de comptes utilisateurs. (HTML/CSS/PHP/SQL/JavaScript)
 
 ### 📫 Contact
-[Email](mortreuxsoleane@gmail.com) | [LinkedIn]([https://linkedin.com](https://www.linkedin.com/in/sol%C3%A9ane-mortreux-06b20230b/))
+[Email](mortreuxsoleane@gmail.com) | [https://linkedin.com](https://www.linkedin.com/in/sol%C3%A9ane-mortreux-06b20230b/)
